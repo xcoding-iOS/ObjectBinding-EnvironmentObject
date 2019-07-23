@@ -6,6 +6,14 @@
 //  Copyright © 2019 Giuseppe Sapienza. All rights reserved.
 //
 
+/*
+ LINK DEI LIBRI:
+ 1. Clean Code - https://amzn.to/2YqSuEu
+ 2. Elegant Objects - https://amzn.to/32N4dg0
+ 3. Design Patterns - https://amzn.to/2YkHCZ2
+ 4. Cracking the coding interview - https://amzn.to/2Sz2sP6
+ **/
+
 import SwiftUI
 import Combine
 
